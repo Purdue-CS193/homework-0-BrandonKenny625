@@ -1,8 +1,11 @@
 # Brandon Kenny's First CS193 Homework
 
-- list1
-- list2
-- list3
+### Favorite things about CS193
+- It is only 1 hour a week
+- It is beginner friendly
+- It is run by student TA's, so they know what being a first year CS student is like
+- The TA's are very helpful
+- My lecture is in the WALC which is a really nice building
 
 
 
